@@ -11,3 +11,5 @@ set expandtab
 :inoremap ' ''<Esc>i
 :inoremap " ""<Esc>i
 :inoremap { {<CR>}<Esc>O
+
+let loaded_matchparen=1
