@@ -2,11 +2,12 @@ set smartindent
 set autoindent
 set tabstop=4
 set shiftwidth=4
-set expandtab
+syntax on
+colorscheme vscode
 
 :inoremap ( ()<Esc>i
 :inoremap [ []<Esc>i
-:inoremap < <><Esc>i
+":inoremap < <><Esc>i
 :inoremap { {}<Esc>i
 :inoremap ' ''<Esc>i
 :inoremap " ""<Esc>i
