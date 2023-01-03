@@ -10,7 +10,7 @@ set tabstop=4
 set shiftwidth=4
 set hlsearch
 syntax on
-colorscheme vscode
+"colorscheme vscode
 
 let mapleader = ";"
 nnoremap <Leader>q :q<CR>
